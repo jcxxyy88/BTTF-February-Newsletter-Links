@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>BTTF Newsletter Links</title>
+    <title>BTTF February Newsletter Links</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,13 +40,13 @@
     <h1>ScienceDaily Latest Articles</h1>
     <div class="links-container">
         <a href="https://www.sciencedaily.com/releases/2025/02/250213143538.htm" target="_blank">
-            Article 1: February 13, 2025 Release
+            Jacket uses AI to keep you comfortable
         </a>
         <a href="https://www.sciencedaily.com/releases/2025/02/250203141808.htm" target="_blank">
-            Article 2: February 3, 2025 Release
+            A protein at the heart of heart disease
         </a>
         <a href="https://www.sciencedaily.com/releases/2025/02/250211190231.htm" target="_blank">
-            Article 3: February 11, 2025 Release
+            Turning car and helicopter exhaust into thermoelectric energy
         </a>
     </div>
 </body>
